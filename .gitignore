@@ -49,11 +49,11 @@ Thumbs.db
 /3rdparty/mt19937ar/*.o
 
 # /db/
-/db/import
+#/db/import
 
 # /conf/
 /conf/import
-/conf/msg_conf/import
+#/conf/msg_conf/import
 
 # /doc/
 /doc/doxygen
